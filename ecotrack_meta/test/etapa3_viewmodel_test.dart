@@ -13,7 +13,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 // Importa el repositorio falso.
-import 'soporte/repositorio_espia.dart';
+import 'test/soporte/repositorio_espia.dart';
 
 // Punto de entrada de las pruebas.
 void main() {

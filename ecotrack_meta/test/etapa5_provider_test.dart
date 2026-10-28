@@ -17,9 +17,9 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:provider/provider.dart';
 
 // Importa los pasos comunes.
-import 'soporte/flujos.dart';
+import 'test/soporte/flujos.dart';
 // Importa el repositorio falso.
-import 'soporte/repositorio_espia.dart';
+import 'test/soporte/repositorio_espia.dart';
 
 // Punto de entrada de las pruebas.
 void main() {
